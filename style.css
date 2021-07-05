@@ -64,6 +64,9 @@ img{
 	color: black;
 	margin-bottom: 20px
 }
+h4{
+	margin-bottom: 10px;
+}
 
 @media screen and (max-width: 520px){
 	.sect1 .langs{
