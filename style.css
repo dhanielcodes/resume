@@ -56,6 +56,16 @@ img{
 	line-height: 40px;
 	margin-bottom: 30px; 
 }
+.sect3{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.sect3 h1{
+	margin: 15px 0;
+}
+.sect3 p{
+	font-weight: 300
+}
 .bottom .links{
 	margin-top: 40px;
 }
@@ -67,19 +77,7 @@ img{
 h4{
 	margin-bottom: 10px;
 }
-.sect3{
-	margin-top: 40px;
-	margin-bottom: 40px;
-}
-.sect3 h3{
-	margin: 15px 0;
-	font-size: 21px;
-	font-weight: 400;
-	margin-bottom: 50px;
-}
-.sect3 p{
-	font-weight: 300
-}
+
 @media screen and (max-width: 520px){
 	.sect1 .langs{
 		grid-template-columns: repeat(1, 1fr);
